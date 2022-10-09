@@ -80,7 +80,7 @@ module.exports = {
 			menu += monospace(" ❏ Date : " + date) + "\n"
 			menu += monospace(" ❏ Time : " + time) + "\n"
 		        menu += monospace(" ❏ Speed :  " + processTime(msg.messageTimestamp, moment()) + " Seccond") + "\n\n"
-		        menu += "*This Bot script is : https://github.com/xzeera-id/Senkuu-MD*\n_Tanda ❌ berarti Error atau Fitur sedang Dinonaktifkan oleh Owner!!_\n\n"
+		        menu += "*This Bot script is : https://instagram.com/nizarrrahman.f_*\n_Tanda ❌ berarti Error atau Fitur sedang Dinonaktifkan oleh Owner!!_\n\n"
 			menu += monospace(`Halo, @${sender.split("@")[0]} Here my Command List`) +`\n\n`;
 			const keys = Object.keys(category)
 			menu += "*乂 CATEGORY MENU*\n"
@@ -101,7 +101,7 @@ module.exports = {
         const buttonMessage = {
            image: {url: "https://telegra.ph/file/642a95448d0d2d4750a37.jpg"},
            caption: menu,
-           footer: "Bot Masih dalam tahap Perkembangan",
+           footer: "Bot Masih dalam tahap Perkembangan Jadi Sorry Masih Banyak BUG",
            buttons: buttons,
            headerType: 1,
            withTag: true
