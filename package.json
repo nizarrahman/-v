@@ -1,9 +1,9 @@
 {
-  "name": "senkuu-md",
+  "name": "Nai-Dev",
   "version": "4.1.0",
   "main": "main.js",
   "depecrated": false,
-  "author": "Senkuu",
+  "author": "Nizar",
   "scripts": {
     "start": "node .",
     "format": "prettier --write '**/*.{md,js,json}'"
